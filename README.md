@@ -3,11 +3,9 @@
 Software Developer | Building polished digital experiences ✨  
 
 - 🧠 Full-stack dev with a focus on clean, scalable systems  
-- 💼 Freelancing under **LeibelTheDev** — helping brands launch premium apps & web platforms  
 - ⚙️ Passionate about developer experience, CI/CD, and automation  
-- 🍷 Creator of **Vinoteca**, a luxury member app for wine enthusiasts  
 - 🏠 Running a Raspberry Pi homeserver (media, backups, and self-hosted tools)  
-- 🧱 Always tinkering — from iOS apps to Vue dashboards to backend services  
+- 🧱 Always tinkering — from mobile apps to web app dashboards to backend services  
 
 ### Main Tech Stack & Interests
 
